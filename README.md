@@ -30,4 +30,7 @@ Glossário comunitário com termos gerais de computação
 # Referências
 
 https://explainshell.com/
+- para entender scripts shell
 
+https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+- playlist de GIT e GitHub do Guanabara
