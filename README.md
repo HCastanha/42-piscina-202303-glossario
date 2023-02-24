@@ -51,3 +51,7 @@ https://explainshell.com/
 https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
 - playlist de GIT e GitHub do Guanabara
 - em pt-🇧🇷
+
+https://git-scm.com/doc
+- Documentação GIT
+
