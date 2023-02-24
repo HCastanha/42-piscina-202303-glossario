@@ -5,18 +5,21 @@ Glossário comunitário com termos gerais de computação
 - *Norminette* 
 - *Moulinette*
 - *Avaliação*
-<br><br>
+
+
 ## Termos Piscina
 - *Rush*
 - *Exame*
-<br><br>
+
+
 ## Termos GIT
 - *Dar um clone / Clonar*
 - *Dar um push / pushar*
 - *Dar commit / Comitar*
 - remote
-<br><br>
-## Termos em Geral
+
+
+## Terminologia geral de computação
 - *GUI - Graphical User Interface*
 - *CLI - Command Line Interface*
 - *VUI - Voice User Interface*
@@ -25,21 +28,22 @@ Glossário comunitário com termos gerais de computação
 - *Banco de dados*
 
 ## Referências
-<br>
+
 - https://www.youtube.com/watch?v=Z56Jmr9Z34Q&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J
   - pegada mais raiz de desenvolvimento
   - bem pegada 42 de ferramentas CLI
-<br>
+
 - https://explainshell.com/
   - para entender scripts shell
-<br>
+
 - https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
   - playlist de GIT e GitHub do Guanabara
   - em pt-🇧🇷
-<br>
+
 - https://git-scm.com/doc
   - Documentação GIT
-<br><br>
+
+
 # Dicas
 
 
