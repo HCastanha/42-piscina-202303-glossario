@@ -27,14 +27,17 @@ Glossário comunitário com termos gerais de computação
 
 # Termos em Geral
 
-GUI - Graphical User Interface
-CLI - Command Line Interface
-VUI - Voice User Interface
-HMI - Human-Machine Interface
+*GUI - Graphical User Interface*
 
-SQL - Structured Query Language (Não faz parte do currículo inicial)
+*CLI - Command Line Interface*
 
-Banco de dados
+*VUI - Voice User Interface*
+
+*HMI - Human-Machine Interface*
+
+*SQL - Structured Query Language (Não faz parte do currículo inicial)*
+
+*Banco de dados*
 
 # Referências
 
